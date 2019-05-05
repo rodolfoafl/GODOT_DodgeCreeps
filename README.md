@@ -1,1 +1,4 @@
-GODOT_Game_DodgeCreeps
+Godot: Dodge the Creeps
+====
+
+Project developed to improve my knowledge in Godot
